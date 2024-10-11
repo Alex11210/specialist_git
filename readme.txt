@@ -1,4 +1,4 @@
-
+git commit --amend
 a.org/wiki/Co.
 
 
@@ -15,3 +15,4 @@ aaaaф
 
 фвфывыф
 111
+aadasdsa
